@@ -25,9 +25,7 @@ author:
   avatar           : "profile_picture.jpg"
   name             : "Max Sampson"
   pronouns         : "He/Him"  
-  bio              : |
-  "Assistant Professor of Statistics" 
-  "I'd like to call myself a Statistical Engineer"
+  bio              : "Assistant Professor of Statistics" 
   location         : "Tallahassee"
   employer         : "Florida State University"
   uri              : # URL
